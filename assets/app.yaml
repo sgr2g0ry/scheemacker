@@ -1,0 +1,14 @@
+version: "v1.3"
+copyright: "@Copyright: scheemacker.fr"
+technicalInfo:
+  text: "Build with Flutter"
+  url: "https://flutter.dev/"
+elements:
+  - id: 1
+    key: Cv
+    text: Curriculum Vitae
+    url: "https://gregory.scheemacker.fr"
+  - id: 2
+    key: Ph
+    text: Photographie
+    url: "https://photographie.scheemacker.fr"
